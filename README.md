@@ -12,7 +12,7 @@ WebGLで動きます
 
 https://unityroom.com/games/autumngj
 
-## 行った作業
+## 行った作業(伊東聖矢)
 
 一番難しいであろう線を引くという実装を自ら志願し実装しました。
 
