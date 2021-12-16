@@ -11,7 +11,7 @@ https://unityroom.com/games/autumngj
  
  専門部1年生 3人
  
- <rb>高等部1年(自分) 1人</rb>
+ 高等部1年(自分) 1人
  
 ## 作成形式
 Github,Sourcetreeを用いて制作しました。
