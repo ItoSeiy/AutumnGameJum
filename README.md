@@ -27,10 +27,8 @@ https://unityroom.com/games/autumngj
 
 ## 制作形式　
 
-Unity
-
-Github
-
+Unity,
+Github,
 Sourcetree
 
 上記の3点を用いて制作しました。
