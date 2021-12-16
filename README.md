@@ -3,6 +3,7 @@
 ## 概要
 
 2021年バンタンゲームアカデミー1年次にZoom上で専門部の先輩とゲームジャムを行った際の作品です
+作品はWebGLで動くようになっています
 
 ## 作品URL
 
@@ -23,9 +24,13 @@ https://unityroom.com/games/autumngj
  
 
 高等部1年(自分) 1人
- 
-## 作成形式
 
-Github,Sourcetreeを用いて制作しました。
+## 制作形式　
 
-作品はWebGLで動くようになっています
+Unity
+
+Github
+
+Sourcetree
+
+上記の3点を用いて制作しました。
